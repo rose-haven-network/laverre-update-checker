@@ -1,3 +1,45 @@
-Links are automatically detected: https://modrinth.com/
+# Laverre
+Laverre is large-ish modpack with some MMO style features.
 
-[Markdown Links](https://youtu.be/v1POP-m76ac) are supported.
+**Specs & Allocation used during testing**
+RAM Allocation: 8192MB (8GB)
+Server RAM: 12288MB (12GB)
+RAM: 32GB (DDR4)
+GPU: RTX 3060
+CPU: i5-10600K
+
+**Total Testing Time**
+22+ Hours
+960+ Minutes
+
+**Laverre Server**
+> I'm wanting to host a server for Laverre in the future, I am not sure when I will be able to do this, but I would like to just focus on the modpack alone for now.
+
+## Features
+Fully Optimized as much as possible with each update without losing core functionalities\
+New Critters & Enemies\
+Overhauled Structures & Generation\
+Customized Loot Pools\
+Customized [Cobblemon](https://modrinth.com/mod/cobblemon) Spawns\
+[300+ Mods](https://docs.mysty.one/laverre/mods)
+- All the Mods in Laverre are carefully chosen, and configurated for the best user experience.
+
+## "What makes this modpack stand out from the rest?"
+  
+> Along side [Valerie's Adventure](https://modrinth.com/modpack/valeries-adventure), I consider Laverre to be the "LITE" version of it, less mods, better performance; Now with Laverre, I plan to make sure the performance is better, as this is the modpack I use for my "Forever World".
+
+I spend as much time as possible between Laverre and Valerie's Adventure, I've spent roughly 16 hours debugging & fixing issues with Laverre, I intend to keep the same pace through the next versions and so on.
+
+
+- [Laverre Mod List](https://docs.mysty.one/laverre/mods)
+- [Laverre Changelogs](https://docs.mysty.one/laverre/changelogs)
+> More updates and improvements coming soon.
+
+## "Why the name 'Laverre'?"
+- Laverre includes the [Cobblemon](https://cobblemon.com/) mod, and I got the thought, I decided to name the modpack after one of my [Favorite Pokemon Gym Leader's](https://bulbapedia.bulbagarden.net/wiki/Valerie) home town, [Laverre City](https://bulbapedia.bulbagarden.net/wiki/Laverre_City).
+
+
+[Kinetic Hosting](https://www.kinetichosting.net/partners/cobbledcogs/order) offers cheap and affordable plans for Minecraft. If you would like to purchase from [Kinetic Hosting](https://www.kinetichosting.net/partners/cobbledcogs/order), please click any text on this page that reads "[Kinetic Hosting](https://www.kinetichosting.net/partners/cobbledcogs/order)" or the image below.
+[![Kinetic Hosting Image](https://i.imgur.com/qybtNxg.png)](https://www.kinetichosting.net/partners/cobbledcogs/order)
+
+> All Mods, Resource Packs, Shader Packs, belong to their respective holder, I do not own rights to majority of the Mods, Resourcepacks, Datapacks or Shader Packs in Laverre.
